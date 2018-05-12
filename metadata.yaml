@@ -1,0 +1,30 @@
+_repo: Pietro-Ghisleri_40922
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40922-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: ''
+gutenberg_issued: '2012-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Jealousy -- Fiction'
+- !lcsh 'Stepsisters -- Fiction'
+- !lcsh 'Rome (Italy) -- Social life and customs -- 19th century -- Fiction'
+title: Pietro Ghisleri
+url: http://www.gutenberg.org/ebooks/40922
